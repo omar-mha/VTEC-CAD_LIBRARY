@@ -193,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKJFOAKU
 
-[Document10]
+[Document11]
 DocumentPath=discrete.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTVFCCKS
 
-[Document11]
+[Document12]
 DocumentPath=discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
