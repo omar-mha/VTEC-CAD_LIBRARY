@@ -176,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWHSGHRH
 
-[Document9]
+[Document11]
 DocumentPath=SOIC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKJFOAKU
 
-[Document11]
+[Document12]
 DocumentPath=discrete.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTVFCCKS
 
-[Document12]
+[Document13]
 DocumentPath=discrete.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
